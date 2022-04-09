@@ -13,4 +13,12 @@
     <string name="create">Create</string>
     <string name="create_qr_code_text">Create Qr Code Text</string>
     <string name="create_qr_code_link">Create Qr Code Link</string>
+    <string name="save">Save</string>
+    <string name="generate">Generate</string>
+    <string name="download_qr_code">Download Qr Code</string>
+    <string name="share_qr_code">Share Qr Code</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="result">Result</string>
+    <string name="ok">Ok</string>
 </resources>
